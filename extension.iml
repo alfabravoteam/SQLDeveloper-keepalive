@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/built/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/java/DependencyExample/built/gen-src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java/InsertTemplateAction/built/gen-src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java/InsertTemplateAction/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java/ContextMenuAction/built/gen-src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java/ContextMenuAction/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java/DependencyExample/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java/DumpObjectTypesAction/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" name="FXDiagram 0.35.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="KIELER KLay Layouters v. 2015.02" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SQLDeveloper 19.2" level="project" />
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../2.Tools/sqldeveloper/ide/extensions" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../../2.Tools/sqldeveloper/ide/extensions" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../2.Tools/sqldeveloper/sqldeveloper/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <NATIVE>
+          <root url="file://$MODULE_DIR$/../../../../2.Tools/sqldeveloper/sqldeveloper/lib" />
+        </NATIVE>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../../2.Tools/sqldeveloper/sqldeveloper/lib" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/../../../../2.Tools/sqldeveloper/sqldeveloper/lib" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../../2.Tools/sqldeveloper/sqldeveloper/lib" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../2.Tools/sqldeveloper/external/oracle.javatools-nodeps.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="jar://$MODULE_DIR$/../../../../2.Tools/sqldeveloper/external/oracle.javatools-nodeps.jar!/" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>

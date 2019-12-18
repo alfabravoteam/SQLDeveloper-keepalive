@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eclipse-userlibraries version="2">
+    <library name="SQLDeveloper 19.2" systemlibrary="false">
+        <archive path="C:/Workspace/2.Tools/sqldeveloper/ide/extensions/oracle.ide.db.jar"/>
+        <archive path="C:/Workspace/2.Tools/sqldeveloper/ide/extensions/oracle.ide.jar" source="D:/workspace2/raptor_18.1/raptorbase-src.latest.jar"/>
+        <archive path="C:/Workspace/2.Tools/sqldeveloper/ide/lib/idert.jar" source="D:/workspace2/raptor_18.1/raptorbase-src.latest.jar"/>
+        <archive path="C:/Workspace/2.Tools/sqldeveloper/ide/lib/javatools.jar"/>
+        <archive path="C:/Workspace/2.Tools/sqldeveloper/modules/oracle.javatools/javatools-nodeps.jar"/>
+        <archive path="C:/Workspace/2.Tools/sqldeveloper/modules/oracle.javatools/oicons.jar"/>
+        <archive path="C:/Workspace/2.Tools/sqldeveloper/sqldeveloper/extensions/oracle.sqldeveloper.jar"/>
+        <archive path="C:/Workspace/2.Tools/sqldeveloper/sqldeveloper/extensions/oracle.sqldeveloper.utils.jar"/>
+        <archive path="C:/Workspace/2.Tools/sqldeveloper/sqldeveloper/lib/dbtools-common.jar"/>
+        <archive path="C:/Workspace/2.Tools/sqldeveloper/sqldeveloper/lib/oracle.sqldeveloper.jfx-nodeps.jar"/>
+    </library>
+    <library name="SQLDeveloper 18.1" systemlibrary="false">
+        <archive path="D:/sqldeveloper-18.1.0/sqldeveloper/ide/extensions/oracle.ide.db.jar"/>
+        <archive path="D:/sqldeveloper-18.1.0/sqldeveloper/ide/extensions/oracle.ide.jar" source="D:/workspace2/raptor_18.1/raptorbase-src.latest.jar"/>
+        <archive path="D:/sqldeveloper-18.1.0/sqldeveloper/ide/lib/idert.jar" source="D:/workspace2/raptor_18.1/raptorbase-src.latest.jar"/>
+        <archive path="D:/sqldeveloper-18.1.0/sqldeveloper/ide/lib/javatools.jar"/>
+        <archive path="D:/sqldeveloper-18.1.0/sqldeveloper/modules/oracle.javatools/javatools-nodeps.jar"/>
+        <archive path="D:/sqldeveloper-18.1.0/sqldeveloper/modules/oracle.javatools/oicons.jar"/>
+        <archive path="D:/sqldeveloper-18.1.0/sqldeveloper/sqldeveloper/extensions/oracle.sqldeveloper.jar"/>
+        <archive path="D:/sqldeveloper-18.1.0/sqldeveloper/sqldeveloper/extensions/oracle.sqldeveloper.utils.jar"/>
+        <archive path="D:/sqldeveloper-18.1.0/sqldeveloper/sqldeveloper/lib/dbtools-common.jar"/>
+        <archive path="D:/sqldeveloper-18.1.0/sqldeveloper/sqldeveloper/lib/oracle.sqldeveloper.jfx-nodeps.jar"/>
+    </library>
+    <library name="SQLDeveloper 4.2" systemlibrary="false">
+        <archive path="D:/sqldeveloper-4.2.0.17.089.1709/sqldeveloper/ide/extensions/oracle.ide.db.jar"/>
+        <archive path="D:/sqldeveloper-4.2.0.17.089.1709/sqldeveloper/ide/extensions/oracle.ide.jar"/>
+        <archive path="D:/sqldeveloper-4.2.0.17.089.1709/sqldeveloper/ide/lib/idert.jar"/>
+        <archive path="D:/sqldeveloper-4.2.0.17.089.1709/sqldeveloper/ide/lib/javatools.jar"/>
+        <archive path="D:/sqldeveloper-4.2.0.17.089.1709/sqldeveloper/modules/oracle.javatools/javatools-nodeps.jar"/>
+        <archive path="D:/sqldeveloper-4.2.0.17.089.1709/sqldeveloper/modules/oracle.javatools/oicons.jar"/>
+        <archive path="D:/sqldeveloper-4.2.0.17.089.1709/sqldeveloper/sqldeveloper/extensions/oracle.sqldeveloper.jar"/>
+        <archive path="D:/sqldeveloper-4.2.0.17.089.1709/sqldeveloper/sqldeveloper/extensions/oracle.sqldeveloper.utils.jar"/>
+        <archive path="D:/sqldeveloper-4.2.0.17.089.1709/sqldeveloper/sqldeveloper/lib/oracle.dbtools-common.jar"/>
+        <archive path="D:/sqldeveloper-4.2.0.17.089.1709/sqldeveloper/sqldeveloper/lib/oracle.sqldeveloper.jfx-nodeps.jar"/>
+    </library>
+</eclipse-userlibraries>
