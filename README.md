@@ -16,7 +16,7 @@ For v1.4:
 
 ### How to install?
 
-Use the [ZIP file](https://github.com/alfabravoteam/SQLDeveloper-keepalive/blob/master/java/keepalive/built/cfu/keepalive-1.4.0.zip) (java/keepalive/build/cfu folder if you build it yourself) and perform a local installation through the `Search for Updates` panel.
+Use the [ZIP file](https://github.com/alfabravoteam/SQLDeveloper-keepalive/releases/download/1.4.0/keepalive-1.4.0.zip) (java/keepalive/build/cfu folder if you build it yourself) and perform a local installation through the `Search for Updates` panel.
 
 ### How to changes things I would like to see improve?
 
