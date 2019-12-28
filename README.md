@@ -9,7 +9,7 @@ If you are using new JDBC 4.0 drivers, then it is very likely that they are vali
 ### What has changed?
 
 For v1.4:
-- The project structure changed to make it more similar to the [Oracle examples](https://github.com/oracle/oracle-db-examples/blob/master/sqldeveloper/extension/setup.md).
+- The project structure changed to make it more similar to the [Oracle examples](https://github.com/oracle/oracle-db-examples/blob/master/sqldeveloper/extension/setup.md). This was made to ensure the resulting extension works with SQL Developer v19.
 - Handling of PreparedStatement and ResultSet changed to avoid memory leaks.
 - Some inline Strings across the code were moved to constants.
 - The logging code was moved to a helper class to allow its usage across the extension. 
